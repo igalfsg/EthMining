@@ -21,7 +21,7 @@ Mining instructions.
 <br>setx GPU_USE_SYNC_OBJECTS 1
 <br>setx GPU_SINGLE_ALLOC_PERCENT 100
 <br>setx GPU_MAX_ALLOC_PERCENT 100
-<br>ethminer.exe -F http://eth-eu1.nanopool.org:8888/YOUR_ADDRESS/MINER_NAME/YOUR_EMAIL
+<br>ethminer.exe -F http://eth-eu1.nanopool.org:8888/YOUR_ADDRESS/MINER_NAME/YOUR_EMAIL -U
 <br>14) And start mining :)
 <br>15)You can check your progress in eth,nanopool.org (there is a bit of a delay)
 <br>16)To make your miner even more badass you can make it start mining as soon as you sign in by making your start file run on startup by following this tutorial: https://www.computerhope.com/issues/ch000322.htm
